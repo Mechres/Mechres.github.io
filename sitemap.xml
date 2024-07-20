@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-profile.netlify.app/blogs/</loc>
+    <loc>https://mechres.github.io/blogs/</loc>
     <lastmod>2024-07-20T12:34:56-07:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/hello/</loc>
+    <loc>https://mechres.github.io/tags/hello/</loc>
     <lastmod>2024-07-20T12:34:56-07:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/blogs/my-first-blog-post/</loc>
+    <loc>https://mechres.github.io/blogs/my-first-blog-post/</loc>
     <lastmod>2024-07-20T12:34:56-07:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/</loc>
+    <loc>https://mechres.github.io/</loc>
     <lastmod>2024-07-20T12:34:56-07:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/</loc>
+    <loc>https://mechres.github.io/tags/</loc>
     <lastmod>2024-07-20T12:34:56-07:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/test/</loc>
+    <loc>https://mechres.github.io/tags/test/</loc>
     <lastmod>2024-07-20T12:34:56-07:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/world/</loc>
+    <loc>https://mechres.github.io/tags/world/</loc>
     <lastmod>2024-07-20T12:34:56-07:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/categories/</loc>
+    <loc>https://mechres.github.io/categories/</loc>
   </url>
 </urlset>

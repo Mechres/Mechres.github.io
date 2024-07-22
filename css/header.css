@@ -125,3 +125,23 @@ li > .dropdown-toggle:focus{
 #search-results .card a:hover {
     color: var(--primary-color) !important;
 }
+
+.language-switcher ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .language-switcher li {
+    margin-right: 10px;
+  }
+  
+  .language-switcher li.active a {
+    font-weight: bold;
+  }
+  
+  .language-switcher a {
+    text-decoration: none;
+    color: inherit;
+  }

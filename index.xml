@@ -6,8 +6,22 @@
     <description>Recent content on Mehmet Yağız Yelgen</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jul 2024 12:34:56 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 23:51:26 +0300</lastBuildDate>
     <atom:link href="https://mechres.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://mechres.github.io/cv/</link>
+      <pubDate>Mon, 22 Jul 2024 23:51:26 +0300</pubDate>
+      <guid>https://mechres.github.io/cv/</guid>
+      <description>Türkçe CV için buraya tıklayın!&#xA;For Turkish Cv Click Here!&#xA;Education Erciyes University - Russian Language and Literature, 2023 Anadolu University - Web Design and Coding, 2021 Gülay K. Sarıkaya ATML - Electrical and Electronics, 2016 Certifications and Trainings Cisco&#xA;Python Essentials 1 IBM Skillsbuild&#xA;Working in a Digital World: Professional Skills (2024) Explore Emerging Tech (2024) Cybersecurity Fundamentals (2024) IBM Cognitive Class&#xA;Python 101 for Data Science (2024) Data Analysis with Python (2024) Denizli Chamber of Commerce TREESP1.</description>
+    </item>
+    <item>
+      <title>Türkçe Cv</title>
+      <link>https://mechres.github.io/cv-tr/</link>
+      <pubDate>Mon, 22 Jul 2024 23:51:26 +0300</pubDate>
+      <guid>https://mechres.github.io/cv-tr/</guid>
+      <description>İngilizce CV için buraya tıklayın!&#xA;For English Resume Click Here!&#xA;Eğitim Erciyes Üniversitesi - Rus Dili ve Edebiyatı, 2023 Anadolu Üniversitesi - Web Tasarım ve Kodlama, 2021 Gülay K. Sarıkaya ATML - Elektrik ve Elektronik, 2016 Sertifikalar ve Eğitimler Cisco Python Essentials 1 IBM Skillsbuild Working in a Digital World: Professional Skills (2024) Explore Emerging Tech (2024) Cybersecurity Fundamentals (2024) IBM Cognitive Class Python 101 for Data Science (2024) Data Analysis with Python (2024) Denizli Ticaret Odası TREESP1.</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://mechres.github.io/blogs/my-first-blog-post/</link>

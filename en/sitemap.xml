@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mechres.github.io/tags/amd-6700-xt/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/tags/backyard-ai/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/blogs/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/tags/gpt4all/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/tags/koboldcpp_rocm/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/tags/llama-3.1/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/tags/llm/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/tags/lm-studio/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
+  </url><url>
     <loc>https://mechres.github.io/</loc>
-    <lastmod>2024-07-22T23:51:26+03:00</lastmod>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -15,23 +39,14 @@
                 href="https://mechres.github.io/"
                 />
   </url><url>
-    <loc>https://mechres.github.io/cv/</loc>
-    <lastmod>2024-07-22T23:51:26+03:00</lastmod>
+    <loc>https://mechres.github.io/tags/ollama/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
   </url><url>
-    <loc>https://mechres.github.io/cv-tr/</loc>
-    <lastmod>2024-07-22T23:51:26+03:00</lastmod>
-  </url><url>
-    <loc>https://mechres.github.io/blogs/</loc>
-    <lastmod>2024-07-20T12:34:56-07:00</lastmod>
-  </url><url>
-    <loc>https://mechres.github.io/tags/hello/</loc>
-    <lastmod>2024-07-20T12:34:56-07:00</lastmod>
-  </url><url>
-    <loc>https://mechres.github.io/blogs/my-first-blog-post/</loc>
-    <lastmod>2024-07-20T12:34:56-07:00</lastmod>
+    <loc>https://mechres.github.io/blogs/llamaonamd/</loc>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
   </url><url>
     <loc>https://mechres.github.io/tags/</loc>
-    <lastmod>2024-07-20T12:34:56-07:00</lastmod>
+    <lastmod>2024-08-07T02:02:35+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -42,6 +57,18 @@
                 hreflang="en"
                 href="https://mechres.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://mechres.github.io/cv/</loc>
+    <lastmod>2024-07-22T23:51:26+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/cv-tr/</loc>
+    <lastmod>2024-07-22T23:51:26+03:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/tags/hello/</loc>
+    <lastmod>2024-07-20T12:34:56-07:00</lastmod>
+  </url><url>
+    <loc>https://mechres.github.io/blogs/my-first-blog-post/</loc>
+    <lastmod>2024-07-20T12:34:56-07:00</lastmod>
   </url><url>
     <loc>https://mechres.github.io/tags/test/</loc>
     <lastmod>2024-07-20T12:34:56-07:00</lastmod>

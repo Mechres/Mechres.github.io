@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Mehmet Yağız Yelgen</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jul 2024 12:34:56 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 02:02:35 +0300</lastBuildDate>
     <atom:link href="https://mechres.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Llama 3.1 on an AMD 6700 XT: My LLM App Journey</title>
+      <link>https://mechres.github.io/blogs/llamaonamd/</link>
+      <pubDate>Wed, 07 Aug 2024 02:02:35 +0300</pubDate>
+      <guid>https://mechres.github.io/blogs/llamaonamd/</guid>
+      <description>Running Llama 3.1 on an AMD 6700 XT: My LLM App Journey Running large language models (LLMs) is generally smooth sailing if you have an Nvidia GPU or a newer AMD card (7xxx series). Sadly, I wasn&amp;rsquo;t so fortunate. Here&amp;rsquo;s my experience trying to get an LLM running on my hardware.&#xA;Ollama (v0.2.8) Ollama was my first attempt. Since it primarily runs on the CPU and doesn&amp;rsquo;t support my GPU, it was painfully slow.</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://mechres.github.io/blogs/my-first-blog-post/</link>

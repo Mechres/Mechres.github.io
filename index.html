@@ -654,7 +654,7 @@ Mehmet Yağız Yelgen
             </div>
             
             <div class="col-sm-12 col-md-12 col-lg-8 content">
-                <p>I am a passionate learner with a diverse background in Russian Language and Literature, Web Design and Coding, and Electrical and Electronics. My journey has led me to develop a keen interest in data analysis, machine learning, and emerging technologies.</p>
+                <p>I am a passionate learner with a diverse background in Computer Programming, Russian Language and Literature, Web Design and Coding, and Electrical and Electronics. My journey has led me to develop a keen interest in data analysis, machine learning, and emerging technologies.</p>
 <p>With a strong foundation in Python programming and various data analysis tools, I&rsquo;ve worked on projects ranging from crypto &amp; stock price prediction to multilingual text summarization. I&rsquo;m constantly expanding my skillset through certifications and courses, with a particular focus on data science, machine learning, and AI applications.</p>
 <p>I&rsquo;m always eager to learn new technologies and apply them to solve real-world problems, and I&rsquo;m excited about the possibilities that lie at the intersection of data, technology, and human understanding.</p>
 
@@ -663,9 +663,9 @@ Mehmet Yağız Yelgen
                 Here are some of my key skills:
                 <ul>
                     
-                    <li>Python (Data Analysis, Machine Learning, Web Scraping)</li>
+                    <li>Python (Data Analysis, Machine Learning, Web Scraping, GUI Development)</li>
                     
-                    <li>Machine Learning (LSTM, Catboost, XGBoost, LGBM, Random Forest)</li>
+                    <li>Machine Learning (LSTM, Catboost, XGBoost, LGBM, Random Forest, Tensorflow, PyTorch)</li>
                     
                     <li>Data Visualization (Matplotlib, Seaborn)</li>
                     
@@ -675,7 +675,7 @@ Mehmet Yağız Yelgen
                     
                     <li>Statistical Analysis (SPSS, EViews, Stata, Orange Data Mining)</li>
                     
-                    <li>Web Development (Flask, HTML, CSS)</li>
+                    <li>Web Development (Flask, HTML, CSS, JavaScript)</li>
                     
                     <li>API Integration and Development</li>
                     
@@ -686,6 +686,10 @@ Mehmet Yağız Yelgen
                     <li>Data Preprocessing and Feature Engineering</li>
                     
                     <li>Time Series Analysis and Forecasting</li>
+                    
+                    <li>C and R Programming (Intermediate)</li>
+                    
+                    <li>Image Processing (OpenCV)</li>
                     
                 </ul>
                 
@@ -700,6 +704,38 @@ Mehmet Yağız Yelgen
         <h3 class="text-center">Education</h3>
         <div class="row justify-content-center py-5">
             
+            
+            <div class="col-12 p-0">
+                <div class="row row align-items-center justify-content-center m-1 mb-4">
+                    
+
+                    <div class="col-md-9">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="float-end">
+                                    <small>2024</small>
+                                </div>
+                                <h5 class="card-title">Computer Programming</h5>
+                                
+                                
+                                <a href="https://www.anadolu.edu.tr/" target="_blank">
+                                    <h6>
+                                    Anadolu University
+                                    </h6>
+                                </a>
+                                
+
+                                
+                                <div class="py-1 education-content">
+                                    
+                                </div>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             
             <div class="col-12 p-0">
                 <div class="row row align-items-center justify-content-center m-1 mb-4">
@@ -1134,6 +1170,24 @@ Mehmet Yağız Yelgen
                 </div>
                 
                 
+                
+                <div class="col-lg-4 col-md-6 my-3">
+                    <a class="card my-3 h-100 p-3" href="https://www.credly.com/users/meyagi/badges" title="Cisco Certifications" target="_blank">
+                        
+                            <div class="card-head">
+                                <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png">
+                            </div>
+                        
+                        <div class="card-body bg-transparent">
+                            <h5 class="card-title bg-transparent">Cisco Certifications</h5>
+                            <div class="card-text secondary-font">
+                                Completed Python Essentials 1 and Python Essentials 2 courses.
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                
             </div>
         </div>
     </div>
@@ -1192,6 +1246,24 @@ Mehmet Yağız Yelgen
         Recent Posts
     </div>
     <div class="row justify-content-center">
+        
+        <div class="col-lg-4 col-md-6 pt-2">
+            <div class="card h-100">
+                
+                <div class="card-body bg-transparent p-3 shadow-sm">
+                    <a href="/blogs/finding-errors/" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="Finding the reason of BSOD">Finding the reason of …</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p>Finding and Fixing the Cause of Blue Screen of Death (BSOD) on Windows Introduction The Blue Screen of Death (BSOD) is a dreaded sight for any Windows user. It often occurs without warning and can be caused by various hardware or software issues. This guide will walk you through the process of …</p>
+                    </div>
+                </div>
+                <div class="mt-auto card-footer">
+                    <span class="float-start">Sep 10, 2024</span>
+                    <a href="/blogs/finding-errors/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
         
         <div class="col-lg-4 col-md-6 pt-2">
             <div class="card h-100">
@@ -1317,14 +1389,10 @@ Ollama …</p>
 </div>
 </footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
+    if (document.body.className.includes("light")) {
         document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
+        localStorage.setItem("pref-theme", 'dark');
     }
-
 </script>
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {

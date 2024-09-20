@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on Mehmet Yağız Yelgen</title>
+    <link>https://mechres.github.io/tags/it/</link>
+    <description>Recent content in IT on Mehmet Yağız Yelgen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Sep 2024 16:34:56 -0700</lastBuildDate>
+    <atom:link href="https://mechres.github.io/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding the reason of BSOD</title>
+      <link>https://mechres.github.io/blogs/finding-errors/</link>
+      <pubDate>Tue, 10 Sep 2024 16:34:56 -0700</pubDate>
+      <guid>https://mechres.github.io/blogs/finding-errors/</guid>
+      <description>Finding and Fixing the Cause of Blue Screen of Death (BSOD) on Windows Introduction The Blue Screen of Death (BSOD) is a dreaded sight for any Windows user. It often occurs without warning and can be caused by various hardware or software issues. This guide will walk you through the process of identifying the root cause of a BSOD and provide steps to resolve it, focusing on a common culprit: display driver issues.</description>
+    </item>
+  </channel>
+</rss>

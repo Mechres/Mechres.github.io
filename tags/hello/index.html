@@ -345,6 +345,24 @@ Hello | Mehmet Yağız Yelgen
             <div class="card h-100">
                 
                 <div class="card-body bg-transparent p-3 shadow-sm">
+                    <a href="/blogs/finding-errors/" class="primary-font card-title">
+                        <h5 class="card-title bg-transparent" title="Finding the reason of BSOD">Finding the reason of …</h5>
+                    </a>
+                    <div class="card-text secondary-font">
+                        <p>Finding and Fixing the Cause of Blue Screen of Death (BSOD) on Windows Introduction The Blue Screen of Death (BSOD) is a dreaded sight for any Windows user. It often occurs without warning and can be caused by various hardware or software issues. This guide will walk you through the process of …</p>
+                    </div>
+                </div>
+                <div class="mt-auto card-footer">
+                    <span class="float-start">Sep 10, 2024</span>
+                    <a href="/blogs/finding-errors/" class="float-end btn btn-outline-info btn-sm">Read</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 pt-2">
+            <div class="card h-100">
+                
+                <div class="card-body bg-transparent p-3 shadow-sm">
                     <a href="/blogs/llamaonamd/" class="primary-font card-title">
                         <h5 class="card-title bg-transparent" title="Running Llama 3.1 on an AMD 6700 XT: My LLM App Journey">Running Llama 3.1 on an …</h5>
                     </a>
@@ -465,14 +483,10 @@ Ollama …</p>
 </div>
 </footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
+    if (document.body.className.includes("light")) {
         document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
+        localStorage.setItem("pref-theme", 'dark');
     }
-
 </script>
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
